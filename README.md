@@ -1,16 +1,10 @@
 # NovaGest
 
-Sitio público de demostración del sistema NovaGest, adaptable a computadora, tableta y teléfono.
+Demostración web pública del sistema NovaGest. Es adaptable a computadora, tableta y teléfono, permite crear cuentas nuevas y guarda los datos de prueba en el navegador.
 
-## Publicar la página
+Acceso de demostración: `admin@novagest.do` / `Demo2026!`.
 
-En el repositorio, abre **Settings → Pages** y selecciona **GitHub Actions** en la sección de publicación. Después, en **Actions**, ejecuta **Publicar NovaGest en GitHub Pages** si el despliegue no comienza automáticamente.
+Las cuentas nuevas usan el perfil de empleado y quedan guardadas en el navegador donde se registraron.
 
-Cuando termine, la web estará en: https://juliannicoronado-dotcom.github.io/NovaGest/
+Esta publicación es una demostración estática: los datos permanecen en cada navegador y no se comparten entre personas o dispositivos.
 
-## Demostración
-
-- Correo: `admin@novagest.do`
-- Contraseña: `Demo2026!`
-
-Esta publicación estática guarda sus datos localmente en cada navegador; no se conecta a la base de datos MariaDB del proyecto local.
