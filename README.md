@@ -1,9 +1,16 @@
 # NovaGest
 
-Demostración web adaptable a computadora, tableta y teléfono.
+Sitio público de demostración del sistema NovaGest, adaptable a computadora, tableta y teléfono.
 
-Para abrir el sitio, entra a `index.html` cuando se publiquen los archivos de la carpeta `public-site`.
+## Publicar la página
 
-Acceso de demostración: `admin@novagest.do` / `Demo2026!`.
+En el repositorio, abre **Settings → Pages** y selecciona **GitHub Actions** en la sección de publicación. Después, en **Actions**, ejecuta **Publicar NovaGest en GitHub Pages** si el despliegue no comienza automáticamente.
 
-Los datos de esta demostración se guardan localmente en cada navegador.
+Cuando termine, la web estará en: https://juliannicoronado-dotcom.github.io/NovaGest/
+
+## Demostración
+
+- Correo: `admin@novagest.do`
+- Contraseña: `Demo2026!`
+
+Esta publicación estática guarda sus datos localmente en cada navegador; no se conecta a la base de datos MariaDB del proyecto local.
