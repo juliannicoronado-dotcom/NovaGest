@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juliannicoronado-dotcom.github.io/NovaGest/sitemap.xml
