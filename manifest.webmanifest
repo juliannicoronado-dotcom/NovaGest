@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "NovaGest · Gestión empresarial",
+  "short_name": "NovaGest",
+  "description": "Sistema de gestión empresarial adaptable a computadora, tableta y teléfono.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f3ff",
+  "theme_color": "#17152f",
+  "icons": [{ "src": "icons/novagest.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
+
